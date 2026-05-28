@@ -15,4 +15,7 @@ Senior Computer Science Student [UPF University](https://www.upf.pf).
 
 ![My Github Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hunix443&theme=apprentice)
 
+Checkout this project !</br>
+[ -- [hAircrack-ng](https://github.com/hunix443/hAircrack-ng)
+
 <!-- This is a s3cr3t place why did you open my readme in the first place ? -->
