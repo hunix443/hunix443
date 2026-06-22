@@ -6,7 +6,7 @@
 
 **Hello world!**
 
-stalking an open-sourcer is often not a good idea btw..
+stalking an open-sourcer is often not a good idea btw.. </br>
 :trophy: 3rd place French Polynesia RootMe CTF April 2026</br>:notebook: TryHackMe SAL1 Certification - [Certificate](#) 
 
 Senior Computer Science Student [UPF University](https://www.upf.pf).</br>
